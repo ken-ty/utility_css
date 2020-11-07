@@ -1,0 +1,40 @@
+/* マージン */
+
+.u-mg_s {
+  margin-top : 10px;
+  margin-bottom : 10px;
+}
+
+.u-mg_m {
+  margin-top : 20px;
+  margin-bottom : 20px;
+}
+
+.u-mg_l {
+  margin-top : 30px;
+  margin-bottom : 30px;
+}
+
+.u-mt_s {
+  margin-top : 10px;
+}
+
+.u-mt_m {
+  margin-top : 20px;
+}
+
+.u-mt_l {
+  margin-top : 30px;
+}
+
+.u-mb_s {
+  margin-bottom : 10px;
+}
+
+.u-mb_m {
+  margin-bottom : 20px;
+}
+
+.u-mb_l {
+  margin-bottom : 30px;
+}
